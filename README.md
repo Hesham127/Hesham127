@@ -9,7 +9,7 @@
 
 name: 'Hesham Mahmoud'
 located_in: 'Cairo, Egypt'
-open_to_opportunities: true   # Indicates you are freely looking for a job
+open_to_opportunities: true  # I am freely looking for a job
 current_status: 'Studying Software Engineering at the Egyptian Chinese University'
 
 fields_of_interests: {
@@ -27,21 +27,20 @@ technical_background: {
 
 currently_learning: {
   'Advanced software engineering concepts',
-  'More about Go & Python best practices in backend development',
-  'More about data fields',
-  'Diving deep in basics like ( DS - ALGO - OS ... )'
+  'Go & Python best practices in backend development',
+  'Data fields',
+  'Computer science fundamentals (DS, Algorithms, OS, ...)'
 }
 
 2025_goals: {
-  'Going deep on backend',
+  'Go deep on backend systems',
   'Enhance my knowledge about data fields',
   'Collaborate with global teams',
-  'Get intern in FAANG'
+  'Get internship at FAANG'
 }
 
 hobbies: {
-  'football',
-  'reading',
-  'teaching'
+  'Football',
+  'Reading',
+  'Teaching'
 }
-
