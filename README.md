@@ -1,7 +1,7 @@
 <h1 align="center">Hesham Mahmoud</h1>
 <h3 align="center">Backend Engineer | Software Engineering Student | Technical Instructor</h3>
 <p align="center">
-  <img src="<[https://your-image-hosting-service.com/your-image.jpg](https://i.imgur.com/9TST9TX.jpeg)>" alt="Hesham Mahmoud" width="200" style="border-radius:50%;" />
+  <img src="<https://i.imgur.com/9TST9TX.jpeg>" alt="Hesham Mahmoud" width="200" />
 </p>
 
 
