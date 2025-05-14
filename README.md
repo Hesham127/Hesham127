@@ -3,7 +3,6 @@
     <a href="www.linkedin.com/in/hesham-elshimy-03b989266"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
   
-  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
 ### 🧑‍💻 A Little Bit About Me and My Interests
 ```yaml
