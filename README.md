@@ -12,34 +12,41 @@
 
 ### 🧑‍💻 A Little Bit About Me and My Interests
 
-```yaml
-name: Your Name
-located_in: Your City, Country
-current_job: Your Current Role
-education:
-  - Degree or Self-Taught
-  - Another Degree
-company: Your Company
+name: 'Hesham Mahmoud'
+located_in: 'Cairo, Egypt'
+open_to_opportunities: true   # Indicates you are freely looking for a job
+current_status: 'Studying Software Engineering at the Egyptian Chinese University'
 
-fields_of_interests:
-  - "Web Development"
-  - "Data Science"
-  - "Machine Learning"
-  - "UI/UX"
-  - "Game Development"
-  - "DevOps"
+fields_of_interests: {
+  'Backend development',
+  'Software Engineering',
+  'Teaching & Mentorship',
+  'Competitive programming'
+}
 
-technical_background:
-  - "Full Stack Developer"
-  - "DevOps Solutions Architect"
-  - "Intern - Data Science & Machine Learning in Python"
-  - "Intern - Internet Of Things"
-  - "Intern - VLSI and FPGA implementation"
+technical_background: {
+  'Worked with Go and Python on several projects',
+  'Technical Instructor for kids',
+  'Instructors Leader at a startup called U Code'
+}
 
-currently_learning:
-  - "Your key learnings"
-2024 Goals:
-  - "State your goals"
+currently_learning: {
+  'Advanced software engineering concepts',
+  'More about Go & Python best practices in backend development',
+  'More about data fields',
+  'Diving deep in basics like ( DS - ALGO - OS ... )'
+}
 
-hobbies:
-  - "List"
+2025_goals: {
+  'Going deep on backend',
+  'Enhance my knowledge about data fields',
+  'Collaborate with global teams',
+  'Get intern in FAANG'
+}
+
+hobbies: {
+  'football',
+  'reading',
+  'teaching'
+}
+
