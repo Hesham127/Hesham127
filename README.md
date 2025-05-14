@@ -1,14 +1,9 @@
-<!-- Header / Social Links -->
+h1 align="center">Hi, I'm Hesham 👋</h1>
 <p align="center">
-  <b>Let's Connect and have a Chat! <sup>💬</sup></b><br>
-  <a href="<https://github.com/your-username>"><img src="<https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github>"/></a>
-  <a href="<https://linkedin.com/in/your-link>"><img src="<https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin>"/></a>
-  <a href="<https://twitter.com/your-link>"><img src="<https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter>"/></a>
-  <a href="<https://dev.to/your-link>"><img src="<https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=dev>"/></a>
-  <a href="<https://instagram.com/your-link>"><img src="<https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram>"/></a>
-</p>
-
----
+    <a href="www.linkedin.com/in/hesham-elshimy-03b989266"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  </p>
+  
+  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
 ### 🧑‍💻 A Little Bit About Me and My Interests
 ```yaml
