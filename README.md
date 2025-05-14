@@ -23,6 +23,7 @@ fields_of_interests: {
 technical_background: {
   'Worked with Go and Python on several projects',
   'Technical Instructor for kids',
+  'Technical Instructor for adults (c++ and competitve programming) ',
   'Instructors Leader at a startup called U Code'
 }
 
