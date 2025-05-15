@@ -16,7 +16,7 @@ current_status: 'Studying Software Engineering at the Egyptian Chinese Universit
 fields_of_interests: {
   'Backend development',
   'Software Engineering',
-  'Teaching & Mentorship',
+  'Teaching',
   'Competitive programming'
 }
 
