@@ -1,8 +1,7 @@
 <h1 align="center">Hesham El Shimy</h1>
 <h3 align="center">Backend Engineer | Software Engineering Student | Technical Instructor</h3>
 <p align="center">
-  <img src="<https://i.imgur.com/9TST9TX.jpeg>" alt="Hesham Mahmoud" width="200" />
-</p>
+
 
 
 ### 🧑‍💻 A Little Bit About Me and My Interests
